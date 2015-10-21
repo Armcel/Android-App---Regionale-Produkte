@@ -1,1 +1,1 @@
-# Android-App---Regionale-Produkte
+# Android App - Regionale Produkte
